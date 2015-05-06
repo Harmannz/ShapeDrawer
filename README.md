@@ -8,6 +8,7 @@ The shapes can be unioned (+), intersected (&) or difference of two shape expres
 The shape is constructed by --**[**-- x,y,width,height --**]**-- which means to construct a rectangle at the x,y coordinate with the given width and height.  
 --**draw**-- command draws the outline of the shape produced on the canvas.  
 --**fill**-- command draws a filled version of the shape on the canvas.  
+--**colour**-- a hexadecimal colour argument needs to be provided when drawing the canvas. Refer to example.  
   
   The main method in the Interpreter Class has some pre-written arguments that can be used for reference. Just uncomment them to and run the Interpreter Class.  
 --**Example of Input/Output**--  
