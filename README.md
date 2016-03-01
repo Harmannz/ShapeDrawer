@@ -11,6 +11,6 @@ The shape is constructed by --**[**-- x,y,width,height --**]**-- which means to 
 --**colour**-- a hexadecimal colour argument needs to be provided when drawing the canvas. Refer to example.  
   
   The main method in the Interpreter Class has some pre-written arguments that can be used for reference. Just uncomment them to and run the Interpreter Class.  
---**Example of Input/Output**--  
+##Example of Input/Output
 Here the two shapes are constructed and the union of the two shapes is drawn.  
 ![](http://gdurl.com/VR0M)  
